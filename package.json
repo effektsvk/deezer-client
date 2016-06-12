@@ -1,0 +1,14 @@
+{
+  "name": "deezer-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Erik Slovak",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.2"
+  }
+}
