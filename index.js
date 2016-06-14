@@ -30,8 +30,7 @@ app.on('ready', function() {
 		'height': 860,
 		'webPreferences': {'plugins': true}
 	});
-	// mainWindow.loadURL('http://deezer.com');
-	mainWindow.loadURL('http://www.adobe.com/software/flash/about/');
+	mainWindow.loadURL('http://deezer.com');
 });
 
 app.on('window-all-closed', function() {
